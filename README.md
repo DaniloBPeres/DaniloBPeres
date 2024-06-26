@@ -1,5 +1,5 @@
 # Hi 👋, I'm Danilo 👨‍💻
-Full-Stack Developer, I currently work with mobile development on .Net platform in Xamarin.Forms at PCI Software.
+Full-Stack Developer, I currently work with mobile development on .Net platform in Xamarin.Forms at PCI Software and Develop Web Applications with PHP and Angular
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-peres-b97a60207/)
 
